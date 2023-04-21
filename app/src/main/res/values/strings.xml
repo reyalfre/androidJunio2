@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">androidJunio2</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+
+    <string-array name="grupo">
+        <item>Selecciona grupo</item>
+        <item>1SMRA</item>
+        <item>2SMRA</item>
+        <item>3SMRA</item>
+        <item>SMRA</item>
+
+    </string-array>
+</resources>
